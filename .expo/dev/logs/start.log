@@ -1,0 +1,1287 @@
+{"_e":"root:init","_t":1786997217262,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997217263,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997217264,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997217738,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997218091,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997218377,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997219688,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1786997337883,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997337883,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997337885,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997338271,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997338524,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997338699,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997339958,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1786997380828,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997380829,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997380831,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997381171,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997381406,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997381588,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997382761,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1786997423693,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997423694,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997423696,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997424048,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997424278,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997424442,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997425696,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1786997599637,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997599638,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997599641,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997600099,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997600377,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997600585,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997601822,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"root:init","_t":1786997820842,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786997820843,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786997820845,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786997821219,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786997821495,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786997821714,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786997822930,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786997830311,"id":"1","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1786997830312,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786997830317,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786997830796,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1786997830896,"id":"1","progress":0.0771604938271605,"total":18,"current":5}
+{"_e":"metro:bundling:progress","_t":1786997831010,"id":"1","progress":0.10331632653061226,"total":28,"current":9}
+{"_e":"metro:bundling:progress","_t":1786997831110,"id":"1","progress":0.12755102040816327,"total":28,"current":10}
+{"_e":"metro:bundling:progress","_t":1786997831210,"id":"1","progress":0.12755102040816327,"total":34,"current":12}
+{"_e":"metro:bundling:progress","_t":1786997831311,"id":"1","progress":0.12755102040816327,"total":63,"current":16}
+{"_e":"metro:bundling:progress","_t":1786997831411,"id":"1","progress":0.12755102040816327,"total":203,"current":44}
+{"_e":"metro:bundling:progress","_t":1786997831511,"id":"1","progress":0.12755102040816327,"total":232,"current":66}
+{"_e":"metro:bundling:progress","_t":1786997831613,"id":"1","progress":0.12755102040816327,"total":251,"current":81}
+{"_e":"metro:bundling:progress","_t":1786997832053,"id":"1","progress":0.12755102040816327,"total":258,"current":82}
+{"_e":"metro:bundling:progress","_t":1786997832123,"id":"1","progress":0.12755102040816327,"total":258,"current":83}
+{"_e":"metro:bundling:progress","_t":1786997832223,"id":"1","progress":0.12755102040816327,"total":262,"current":85}
+{"_e":"metro:bundling:progress","_t":1786997832325,"id":"1","progress":0.12755102040816327,"total":267,"current":91}
+{"_e":"metro:bundling:progress","_t":1786997832425,"id":"1","progress":0.12755102040816327,"total":283,"current":99}
+{"_e":"metro:bundling:progress","_t":1786997832532,"id":"1","progress":0.13131153710740692,"total":287,"current":104}
+{"_e":"metro:bundling:progress","_t":1786997832635,"id":"1","progress":0.16208466857817508,"total":308,"current":124}
+{"_e":"metro:bundling:progress","_t":1786997832735,"id":"1","progress":0.20317219870795278,"total":335,"current":151}
+{"_e":"metro:bundling:progress","_t":1786997832835,"id":"1","progress":0.23389527247809452,"total":397,"current":192}
+{"_e":"metro:bundling:progress","_t":1786997832937,"id":"1","progress":0.23406369391096662,"total":463,"current":224}
+{"_e":"metro:bundling:progress","_t":1786997833037,"id":"1","progress":0.24227845993126318,"total":514,"current":253}
+{"_e":"metro:bundling:progress","_t":1786997833138,"id":"1","progress":0.2664490709590601,"total":556,"current":287}
+{"_e":"metro:bundling:progress","_t":1786997833238,"id":"1","progress":0.27859883008340697,"total":593,"current":313}
+{"_e":"metro:bundling:progress","_t":1786997833338,"id":"1","progress":0.2919484911550468,"total":620,"current":335}
+{"_e":"metro:bundling:progress","_t":1786997833439,"id":"1","progress":0.29891256878329986,"total":642,"current":351}
+{"_e":"metro:bundling:progress","_t":1786997833542,"id":"1","progress":0.3231024930747922,"total":665,"current":378}
+{"_e":"metro:bundling:progress","_t":1786997833642,"id":"1","progress":0.33087947372542875,"total":678,"current":390}
+{"_e":"metro:bundling:progress","_t":1786997833744,"id":"1","progress":0.34541397353031705,"total":684,"current":402}
+{"_e":"metro:bundling:progress","_t":1786997833846,"id":"1","progress":0.3561950783521,"total":692,"current":413}
+{"_e":"metro:bundling:progress","_t":1786997833950,"id":"1","progress":0.36343673469387755,"total":700,"current":422}
+{"_e":"metro:bundling:progress","_t":1786997834058,"id":"1","progress":0.36343673469387755,"total":711,"current":426}
+{"_e":"metro:bundling:progress","_t":1786997834162,"id":"1","progress":0.36406202709679714,"total":711,"current":429}
+{"_e":"metro:bundling:progress","_t":1786997834264,"id":"1","progress":0.36643297879055675,"total":712,"current":431}
+{"_e":"metro:bundling:progress","_t":1786997834398,"id":"1","progress":0.3691071595767922,"total":716,"current":435}
+{"_e":"metro:bundling:progress","_t":1786997834500,"id":"1","progress":0.3725090509035298,"total":716,"current":437}
+{"_e":"metro:bundling:progress","_t":1786997834690,"id":"1","progress":0.3742158484441809,"total":716,"current":438}
+{"_e":"metro:bundling:progress","_t":1786997834789,"id":"1","progress":0.379359648575263,"total":716,"current":441}
+{"_e":"metro:bundling:progress","_t":1786997834889,"id":"1","progress":0.38453855997003833,"total":716,"current":444}
+{"_e":"metro:bundling:progress","_t":1786997834989,"id":"1","progress":0.39040710849677773,"total":717,"current":448}
+{"_e":"metro:bundling:progress","_t":1786997835091,"id":"1","progress":0.39040710849677773,"total":746,"current":461}
+{"_e":"metro:bundling:progress","_t":1786997835193,"id":"1","progress":0.392289002376641,"total":752,"current":471}
+{"_e":"metro:bundling:progress","_t":1786997835295,"id":"1","progress":0.4040360457220461,"total":752,"current":478}
+{"_e":"metro:bundling:progress","_t":1786997835416,"id":"1","progress":0.4040360457220461,"total":793,"current":487}
+{"_e":"metro:bundling:progress","_t":1786997835517,"id":"1","progress":0.4040360457220461,"total":808,"current":502}
+{"_e":"metro:bundling:progress","_t":1786997835619,"id":"1","progress":0.4076572111687812,"total":816,"current":521}
+{"_e":"metro:bundling:progress","_t":1786997835719,"id":"1","progress":0.43106236450183805,"total":824,"current":541}
+{"_e":"metro:bundling:progress","_t":1786997835823,"id":"1","progress":0.4525619834710744,"total":825,"current":555}
+{"_e":"metro:bundling:progress","_t":1786997835925,"id":"1","progress":0.4719378105511377,"total":837,"current":575}
+{"_e":"metro:bundling:progress","_t":1786997836025,"id":"1","progress":0.519147439035244,"total":848,"current":611}
+{"_e":"metro:bundling:progress","_t":1786997836124,"id":"1","progress":0.5481194213604186,"total":855,"current":633}
+{"_e":"metro:bundling:progress","_t":1786997836226,"id":"1","progress":0.591307966706302,"total":870,"current":669}
+{"_e":"metro:bundling:progress","_t":1786997836327,"id":"1","progress":0.6114003000414951,"total":885,"current":692}
+{"_e":"metro:bundling:progress","_t":1786997836431,"id":"1","progress":0.6114003000414951,"total":944,"current":702}
+{"_e":"metro:bundling:progress","_t":1786997836558,"id":"1","progress":0.6114003000414951,"total":978,"current":708}
+{"_e":"metro:bundling:progress","_t":1786997836661,"id":"1","progress":0.6114003000414951,"total":992,"current":713}
+{"_e":"metro:bundling:progress","_t":1786997836791,"id":"1","progress":0.6114003000414951,"total":994,"current":716}
+{"_e":"metro:bundling:progress","_t":1786997836892,"id":"1","progress":0.6114003000414951,"total":1040,"current":736}
+{"_e":"metro:bundling:progress","_t":1786997836992,"id":"1","progress":0.6114003000414951,"total":1052,"current":755}
+{"_e":"metro:bundling:progress","_t":1786997837099,"id":"1","progress":0.6114003000414951,"total":1067,"current":768}
+{"_e":"metro:bundling:progress","_t":1786997837200,"id":"1","progress":0.6114003000414951,"total":1083,"current":783}
+{"_e":"metro:bundling:progress","_t":1786997837300,"id":"1","progress":0.6114003000414951,"total":1141,"current":807}
+{"_e":"metro:bundling:progress","_t":1786997837400,"id":"1","progress":0.6114003000414951,"total":1165,"current":843}
+{"_e":"metro:bundling:progress","_t":1786997837500,"id":"1","progress":0.6114003000414951,"total":1176,"current":871}
+{"_e":"metro:bundling:progress","_t":1786997837601,"id":"1","progress":0.6114003000414951,"total":1250,"current":912}
+{"_e":"metro:bundling:progress","_t":1786997837702,"id":"1","progress":0.6114003000414951,"total":1277,"current":959}
+{"_e":"metro:bundling:progress","_t":1786997837802,"id":"1","progress":0.6114003000414951,"total":1294,"current":986}
+{"_e":"metro:bundling:progress","_t":1786997837902,"id":"1","progress":0.6114003000414951,"total":1354,"current":1001}
+{"_e":"metro:bundling:progress","_t":1786997838002,"id":"1","progress":0.6114003000414951,"total":1371,"current":1013}
+{"_e":"metro:bundling:progress","_t":1786997838103,"id":"1","progress":0.6114003000414951,"total":1374,"current":1020}
+{"_e":"metro:bundling:progress","_t":1786997838203,"id":"1","progress":0.6114003000414951,"total":1378,"current":1037}
+{"_e":"metro:bundling:progress","_t":1786997838303,"id":"1","progress":0.6114003000414951,"total":1384,"current":1052}
+{"_e":"metro:bundling:progress","_t":1786997838407,"id":"1","progress":0.6114003000414951,"total":1391,"current":1078}
+{"_e":"metro:bundling:progress","_t":1786997838508,"id":"1","progress":0.625229081632653,"total":1400,"current":1107}
+{"_e":"metro:bundling:progress","_t":1786997838609,"id":"1","progress":0.6454622796470625,"total":1409,"current":1132}
+{"_e":"metro:bundling:progress","_t":1786997838709,"id":"1","progress":0.6583706452077787,"total":1421,"current":1153}
+{"_e":"metro:bundling:progress","_t":1786997838809,"id":"1","progress":0.6726277970679012,"total":1440,"current":1181}
+{"_e":"metro:bundling:progress","_t":1786997838909,"id":"1","progress":0.7181251992772877,"total":1455,"current":1233}
+{"_e":"metro:bundling:progress","_t":1786997839011,"id":"1","progress":0.7336905401773717,"total":1464,"current":1254}
+{"_e":"metro:bundling:progress","_t":1786997839112,"id":"1","progress":0.7535367619996302,"total":1478,"current":1283}
+{"_e":"metro:bundling:progress","_t":1786997839212,"id":"1","progress":0.7670859766738383,"total":1498,"current":1312}
+{"_e":"metro:bundling:progress","_t":1786997839314,"id":"1","progress":0.7860680262296927,"total":1508,"current":1337}
+{"_e":"metro:bundling:progress","_t":1786997839414,"id":"1","progress":0.7901234567901234,"total":1521,"current":1352}
+{"_e":"metro:bundling:progress","_t":1786997839516,"id":"1","progress":0.7951864653729307,"total":1524,"current":1359}
+{"_e":"metro:bundling:progress","_t":1786997839720,"id":"1","progress":0.8046972319269013,"total":1525,"current":1368}
+{"_e":"metro:bundling:progress","_t":1786997839821,"id":"1","progress":0.8152854672198113,"total":1535,"current":1386}
+{"_e":"metro:bundling:progress","_t":1786997839923,"id":"1","progress":0.8232357448960433,"total":1543,"current":1400}
+{"_e":"metro:bundling:progress","_t":1786997840030,"id":"1","progress":0.8273007097596966,"total":1548,"current":1408}
+{"_e":"metro:bundling:progress","_t":1786997840132,"id":"1","progress":0.8320079589234087,"total":1548,"current":1412}
+{"_e":"metro:bundling:progress","_t":1786997840237,"id":"1","progress":0.8368292753066285,"total":1549,"current":1417}
+{"_e":"metro:bundling:progress","_t":1786997840423,"id":"1","progress":0.8395892875430848,"total":1553,"current":1423}
+{"_e":"metro:bundling:progress","_t":1786997840540,"id":"1","progress":0.8469677044164392,"total":1556,"current":1432}
+{"_e":"metro:bundling:progress","_t":1786997840624,"id":"1","progress":0.8475686570924665,"total":1575,"current":1450}
+{"_e":"metro:bundling:progress","_t":1786997840748,"id":"1","progress":0.8572526577611677,"total":1592,"current":1474}
+{"_e":"metro:bundling:progress","_t":1786997840850,"id":"1","progress":0.8905976648163075,"total":1599,"current":1509}
+{"_e":"metro:bundling:progress","_t":1786997840959,"id":"1","progress":0.9134833706971011,"total":1605,"current":1534}
+{"_e":"metro:bundling:progress","_t":1786997841059,"id":"1","progress":0.9453158899962758,"total":1623,"current":1578}
+{"_e":"metro:bundling:progress","_t":1786997841163,"id":"1","progress":0.9453158899962758,"total":1674,"current":1612}
+{"_e":"metro:bundling:progress","_t":1786997841262,"id":"1","progress":0.9453158899962758,"total":1739,"current":1636}
+{"_e":"metro:bundling:progress","_t":1786997841363,"id":"1","progress":0.9453158899962758,"total":1766,"current":1648}
+{"_e":"metro:bundling:progress","_t":1786997841462,"id":"1","progress":0.9453158899962758,"total":1780,"current":1663}
+{"_e":"metro:bundling:progress","_t":1786997841562,"id":"1","progress":0.9453158899962758,"total":1838,"current":1674}
+{"_e":"metro:bundling:progress","_t":1786997841662,"id":"1","progress":0.9453158899962758,"total":1854,"current":1688}
+{"_e":"metro:bundling:progress","_t":1786997841768,"id":"1","progress":0.9453158899962758,"total":1871,"current":1710}
+{"_e":"metro:bundling:progress","_t":1786997841862,"id":"1","progress":0.9453158899962758,"total":1886,"current":1739}
+{"_e":"metro:bundling:progress","_t":1786997841969,"id":"1","progress":0.9453158899962758,"total":1905,"current":1764}
+{"_e":"metro:bundling:progress","_t":1786997842070,"id":"1","progress":0.9453158899962758,"total":1923,"current":1775}
+{"_e":"metro:bundling:progress","_t":1786997842170,"id":"1","progress":0.9453158899962758,"total":1933,"current":1796}
+{"_e":"metro:bundling:progress","_t":1786997842271,"id":"1","progress":0.9453158899962758,"total":1941,"current":1834}
+{"_e":"metro:bundling:progress","_t":1786997842372,"id":"1","progress":0.9453158899962758,"total":1957,"current":1850}
+{"_e":"metro:bundling:progress","_t":1786997842482,"id":"1","progress":0.9453158899962758,"total":1978,"current":1864}
+{"_e":"metro:bundling:progress","_t":1786997842583,"id":"1","progress":0.9453158899962758,"total":1993,"current":1882}
+{"_e":"metro:bundling:progress","_t":1786997842683,"id":"1","progress":0.9453158899962758,"total":2002,"current":1903}
+{"_e":"metro:bundling:progress","_t":1786997842783,"id":"1","progress":0.9453158899962758,"total":2010,"current":1906}
+{"_e":"metro:bundling:progress","_t":1786997842900,"id":"1","progress":0.9453158899962758,"total":2010,"current":1912}
+{"_e":"metro:bundling:progress","_t":1786997843003,"id":"1","progress":0.9453158899962758,"total":2011,"current":1923}
+{"_e":"metro:bundling:progress","_t":1786997843103,"id":"1","progress":0.9453158899962758,"total":2015,"current":1940}
+{"_e":"metro:bundling:progress","_t":1786997843204,"id":"1","progress":0.9453158899962758,"total":2023,"current":1962}
+{"_e":"metro:bundling:progress","_t":1786997843306,"id":"1","progress":0.9541636841952829,"total":2027,"current":1980}
+{"_e":"metro:bundling:progress","_t":1786997843407,"id":"1","progress":0.9541636841952829,"total":2042,"current":1994}
+{"_e":"metro:bundling:progress","_t":1786997843507,"id":"1","progress":0.9556682208010823,"total":2052,"current":2006}
+{"_e":"metro:bundling:progress","_t":1786997843612,"id":"1","progress":0.9579196315795251,"total":2069,"current":2025}
+{"_e":"metro:bundling:progress","_t":1786997843716,"id":"1","progress":0.9668818924450789,"total":2096,"current":2061}
+{"_e":"metro:bundling:progress","_t":1786997843816,"id":"1","progress":0.9668818924450789,"total":2137,"current":2101}
+{"_e":"metro:bundling:progress","_t":1786997843916,"id":"1","progress":0.9815416980735061,"total":2157,"current":2137}
+{"_e":"metro:bundling:progress","_t":1786997844023,"id":"1","progress":0.999,"total":2164,"current":2164}
+{"_e":"metro:bundling:done","_t":1786997844329,"id":"1","total":2164,"ms":14017.560084}
+{"_e":"metro:client_log","_t":1786997848029,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786997848030,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1786997848030,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1786997848030,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1786997848030,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786997848194,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786997848201,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786997848202,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786997848235,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786997848241,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786997848242,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786997849442,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997849450,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786997849561,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786997849569,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786997849569,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786997849569,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786997849569,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786997849594,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786997849603,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997849604,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786997850044,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786997850083,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786997850231,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786997850237,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786997850238,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997850238,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786997850238,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786997850328,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786997850342,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786997853137,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786997853151,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786997853433,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786997853484,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786997853484,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786997872062,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786997872099,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1786998486277,"id":"2","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1786998486279,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786998486319,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786998486735,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786998486881,"id":"2","total":1,"ms":603.032292}
+{"_e":"metro:client_log","_t":1786998490437,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786998490438,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1786998490438,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1786998490438,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1786998490438,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786998490584,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786998490592,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786998490592,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998490626,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998490632,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786998490632,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786998494057,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998494068,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998494193,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786998494199,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786998494200,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786998494200,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786998494200,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786998494227,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494236,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998494587,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494596,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998494623,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998494864,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786998494874,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786998494875,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998494875,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998494875,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786998494948,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998494956,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998494957,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786998494957,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998494957,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998495418,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998495738,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998496000,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786998496015,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786998496016,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786998498423,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998498433,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998498434,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998498434,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998498434,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998498434,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998498434,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998498435,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998499040,"level":"error","data":["[ReferenceError: Property 'booking' doesn't exist]","\n\n\u001b[1mCode: [id].tsx\u001b[22m\n\u001b[0m \u001b[90m 78 |\u001b[39m\n \u001b[90m 79 |\u001b[39m   \u001b[90m// Check if custom units are used\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 80 |\u001b[39m   \u001b[36mif\u001b[39m (booking\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mrate_type \u001b[33m===\u001b[39m \u001b[32m\"custom\"\u001b[39m \u001b[33m&&\u001b[39m booking\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mduration_qty) {\n \u001b[90m    |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 81 |\u001b[39m     \u001b[36mreturn\u001b[39m \u001b[32m`${Number(booking.duration_qty).toLocaleString()} unit${\u001b[39m\n \u001b[90m 82 |\u001b[39m \u001b[32m      Number(booking.duration_qty) !== 1 ? \"s\" : \"\"\u001b[39m\n \u001b[90m 83 |\u001b[39m \u001b[32m    }`\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  formatDuration (app/booking/[id].tsx:80:7)\u001b[39m\n\u001b[90m  MaidBookingDetailScreen (app/booking/[id].tsx:681:30)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 248 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mAppToastProvider\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 249 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStatusBar\u001b[39m style\u001b[33m=\u001b[39m\u001b[32m\"light\"\u001b[39m backgroundColor\u001b[33m=\u001b[39m\u001b[32m\"#1a1a2e\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 250 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m screenOptions\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }}\u001b[33m>\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 251 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(auth)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 252 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(tabs)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 253 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  RootLayout (app/_layout.tsx:250:13)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786998518060,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786998518067,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786998518068,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786998518068,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786998518068,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786998518068,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786998518068,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998518073,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998518073,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786998518073,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786998518073,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998518092,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786998518107,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": true, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998518320,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786998518326,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786998518326,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998518327,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998518327,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786998518364,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518371,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998518785,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786998518792,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998518800,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998518811,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998518820,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998518965,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518973,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998518973,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998518973,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998518973,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998518974,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998518974,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998518974,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998518974,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998518974,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998519204,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998519341,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998519752,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786998519761,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786998519761,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786998521782,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998521788,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998521789,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998535133,"level":"error","data":["[ReferenceError: Property 'booking' doesn't exist]","\n\n\u001b[1mCode: [id].tsx\u001b[22m\n\u001b[0m \u001b[90m 78 |\u001b[39m\n \u001b[90m 79 |\u001b[39m   \u001b[90m// Check if custom units are used\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 80 |\u001b[39m   \u001b[36mif\u001b[39m (booking\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mrate_type \u001b[33m===\u001b[39m \u001b[32m\"custom\"\u001b[39m \u001b[33m&&\u001b[39m booking\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mduration_qty) {\n \u001b[90m    |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 81 |\u001b[39m     \u001b[36mreturn\u001b[39m \u001b[32m`${Number(booking.duration_qty).toLocaleString()} unit${\u001b[39m\n \u001b[90m 82 |\u001b[39m \u001b[32m      Number(booking.duration_qty) !== 1 ? \"s\" : \"\"\u001b[39m\n \u001b[90m 83 |\u001b[39m \u001b[32m    }`\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  formatDuration (app/booking/[id].tsx:80:7)\u001b[39m\n\u001b[90m  MaidBookingDetailScreen (app/booking/[id].tsx:681:30)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 248 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mAppToastProvider\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 249 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStatusBar\u001b[39m style\u001b[33m=\u001b[39m\u001b[32m\"light\"\u001b[39m backgroundColor\u001b[33m=\u001b[39m\u001b[32m\"#1a1a2e\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 250 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m screenOptions\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }}\u001b[33m>\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 251 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(auth)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 252 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(tabs)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 253 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  RootLayout (app/_layout.tsx:250:13)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1786998586159,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786998586168,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786998586169,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786998586169,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786998586169,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786998586169,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786998586169,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998586180,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998586180,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786998586180,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786998586180,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998586193,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786998586205,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": true, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998586415,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786998586421,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786998586421,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998586421,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998586421,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786998586454,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998586459,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998586459,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998586459,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998586459,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998586460,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998586460,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998586460,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998586894,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998586902,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998586902,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998586902,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998586902,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998586903,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998587033,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998587042,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998587042,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998587042,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998587042,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998587042,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998587043,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998587043,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998587043,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998587043,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998587337,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998587580,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998588765,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786998588771,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786998588771,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786998589112,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998589118,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1786998610081,"id":"b","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1786998610083,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786998610192,"id":"b","total":1,"ms":110.433792}
+{"_e":"metro:client_log","_t":1786998613557,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786998613559,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1786998613559,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1786998613561,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1786998613561,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786998613744,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786998613755,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786998613755,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998613794,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786998613802,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786998613802,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786998614994,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998615002,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998615147,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786998615155,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786998615155,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786998615155,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786998615155,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786998615181,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615187,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998615556,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615563,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998615587,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998615809,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786998615817,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786998615817,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998615817,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998615817,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786998615903,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786998615914,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786998616478,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998616936,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786998617212,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786998617228,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786998617229,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786998619764,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998619771,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998619771,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998619771,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998619771,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998619772,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998619772,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998619772,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998878021,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998878028,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998880318,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998880329,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998902255,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998902260,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998905423,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998905429,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998905429,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998905429,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998905429,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998905435,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998905435,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998905435,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998933611,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998933618,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998933618,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998933619,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998933619,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998933619,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998933624,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998933624,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998937025,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998937038,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998937038,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998937038,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998937038,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998937038,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998937039,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998937039,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786998997029,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786998997038,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999028913,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999028926,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999028927,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999033148,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999033164,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999033165,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999038756,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999038761,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999038761,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999038762,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999038762,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999038762,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999038762,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999038762,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1786999113946,"id":"c","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1786999113947,"id":"c","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1786999114049,"id":"c","total":1,"ms":102.932708}
+{"_e":"metro:client_log","_t":1786999117775,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786999117776,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1786999117776,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1786999117776,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1786999117777,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1786999117877,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1786999117877,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1786999117877,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786999117950,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1786999117950,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1786999117950,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1786999121386,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999121394,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786999121524,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1786999121532,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1786999121532,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1786999121532,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1786999121532,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1786999121581,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999121588,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999121588,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999121589,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999121589,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999121589,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999121589,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999121589,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999121931,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999121940,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999121941,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999121960,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786999122344,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1786999122352,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1786999122352,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999122352,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786999122352,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1786999122375,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999122381,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999122389,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1786999122389,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1786999122389,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1786999122915,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786999123133,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1786999123387,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1786999123398,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1786999123398,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1786999124657,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999124670,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999129914,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999129923,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999129923,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999129923,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999129924,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999129924,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999129928,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999129928,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999133807,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999133816,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999389057,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999389063,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999389063,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999389064,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999389064,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999389064,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999389064,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999389064,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999390890,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999390900,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999390900,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999390901,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999390901,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999390901,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999390901,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999390901,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999704116,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999704121,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999809831,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999809836,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999809836,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999809836,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999809837,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999809837,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999809837,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999809837,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1786999813837,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1786999813848,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787001277975,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787001277987,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787001278354,"level":"log","data":["[MaidProfile] Rate custom raw:","{\"3 Months Estate Management\": 1000000, \"6 Months Property Maintenance\": 5000000, \"Monthly Short-Let Property Support\": 200000}"]}
+{"_e":"metro:client_log","_t":1787001278360,"level":"log","data":["[MaidProfile] Custom rates set:","[{\"amount\": \"1000000\", \"name\": \"3 Months Estate Management\"}, {\"amount\": \"5000000\", \"name\": \"6 Months Property Maintenance\"}, {\"amount\": \"200000\", \"name\": \"Monthly Short-Let Property Support\"}]"]}
+{"_e":"metro:client_log","_t":1787001279606,"level":"warn","data":["react-i18next:: useTranslation: You will need to pass in an i18next instance by using initReactI18next or by passing it via props or context. In monorepo setups, make sure there is only one instance of react-i18next.","{\"code\": \"NO_I18NEXT_INSTANCE\"}"]}
+{"_e":"metro:client_log","_t":1787001279997,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787001280004,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787001280004,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787001280004,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787001280004,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787001280005,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787001280005,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787001280005,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002118528,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002118534,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002118535,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002122484,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002122502,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002122502,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002122502,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002122503,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002122503,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002122503,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002122503,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002206051,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002206057,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002206057,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002206057,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002206058,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002206058,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002206058,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002206058,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002210830,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002210838,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002210839,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002254076,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002254084,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002344041,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002344048,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002364133,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002364140,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002386122,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002386128,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002386129,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002448020,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002448027,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002448028,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002453358,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002453369,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002453370,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1787002627609,"id":"d","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1787002627609,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787002627622,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787002628200,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787002628315,"id":"d","total":1,"ms":706.033917}
+{"_e":"metro:client_log","_t":1787002632846,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787002632847,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1787002632847,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1787002632847,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1787002632847,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787002633006,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787002633011,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787002633011,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787002633040,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787002633081,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1787002633081,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787002634346,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002634356,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787002634481,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787002634489,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787002634489,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787002634490,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787002634490,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787002634515,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002634524,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002634525,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002634882,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002634893,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002634894,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002634917,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787002635139,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787002635182,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787002635189,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002635189,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787002635189,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787002635243,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002635253,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787002635254,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787002638084,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787002638090,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787002638355,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787002638361,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787002638362,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1787002728982,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002729020,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002729020,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002729020,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002729021,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002729021,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002729021,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002729021,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002731130,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002731173,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002731174,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002732289,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002732301,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002769657,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002769662,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002769662,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002769662,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002769663,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002769663,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002769663,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002769663,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002771891,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002771891,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002771891,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002771891,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002771891,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002771895,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002771896,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002771896,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002773843,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002773849,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002783150,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002783158,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002794486,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002794498,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002797411,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002797422,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002808963,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002808970,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002808971,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002812473,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002812480,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002816386,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002816398,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002816398,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002816398,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002816399,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002816399,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002816399,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002816399,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002871848,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002871855,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002871856,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787002872374,"level":"log","data":["[MaidProfile] Rate custom raw:","{\"3 Months Estate Management\": 1000000, \"6 Months Property Maintenance\": 5000000, \"Monthly Short-Let Property Support\": 200000}"]}
+{"_e":"metro:client_log","_t":1787002872380,"level":"log","data":["[MaidProfile] Custom rates set:","[{\"amount\": \"1000000\", \"name\": \"3 Months Estate Management\"}, {\"amount\": \"5000000\", \"name\": \"6 Months Property Maintenance\"}, {\"amount\": \"200000\", \"name\": \"Monthly Short-Let Property Support\"}]"]}
+{"_e":"metro:client_log","_t":1787002888932,"level":"log","data":["[MaidProfile] Rate custom raw:","{\"3 Months Estate Management\": 1000000, \"6 Months Property Maintenance\": 5000000, \"Monthly Short-Let Property Support\": 200000}"]}
+{"_e":"metro:client_log","_t":1787002888974,"level":"log","data":["[MaidProfile] Custom rates set:","[{\"amount\": \"1000000\", \"name\": \"3 Months Estate Management\"}, {\"amount\": \"5000000\", \"name\": \"6 Months Property Maintenance\"}, {\"amount\": \"200000\", \"name\": \"Monthly Short-Let Property Support\"}]"]}
+{"_e":"metro:client_log","_t":1787002941900,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787002941907,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787002941908,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787003050251,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787003050259,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787003055466,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787003055475,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787003055475,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787003055475,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787003055476,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787003055476,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787003055476,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787003055476,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1787003996263,"id":"e","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1787003996269,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787003996379,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787003996982,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787003997295,"id":"e","total":1,"ms":1030.275708}
+{"_e":"metro:client_log","_t":1787004000700,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787004000702,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1787004000703,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1787004000703,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1787004000703,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787004000870,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787004000879,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787004000879,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787004000903,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787004000911,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1787004000911,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787004004305,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004004312,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004004484,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787004004490,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787004004490,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787004004490,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787004004490,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787004004490,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004004491,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004004652,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787004004721,"level":"error","data":["[ReferenceError: Property 'unreadsupport' doesn't exist]","\n\n\u001b[1mCode: MaidHome.tsx\u001b[22m\n\u001b[0m \u001b[90m 665 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{s\u001b[33m.\u001b[39msupportStatLabel}\u001b[33m>\u001b[39m\u001b[33mSUPPORT\u001b[39m \u001b[33mTICKETS\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 666 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{s\u001b[33m.\u001b[39msupportStatValue}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 667 |\u001b[39m                   {unreadsupport \u001b[33m>\u001b[39m \u001b[35m0\u001b[39m \u001b[33m?\u001b[39m (\n \u001b[90m     |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 668 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{{ color\u001b[33m:\u001b[39m \u001b[32m\"#ef4444\"\u001b[39m }}\u001b[33m>\u001b[39m\n \u001b[90m 669 |\u001b[39m                       {unreadsupport} unread\n \u001b[90m 670 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  MaidHomeScreen (components/home/MaidHome.tsx:667:20)\u001b[39m","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m 2 |\u001b[39m\n \u001b[90m 3 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m \u001b[36mfunction\u001b[39m \u001b[33mMaidHomeTab\u001b[39m() {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 4 |\u001b[39m   \u001b[36mreturn\u001b[39m \u001b[33m<\u001b[39m\u001b[33mMaidHomeScreen\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m   |\u001b[39m          \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 5 |\u001b[39m }\n \u001b[90m 6 |\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  MaidHomeTab (app/(tabs)/index.tsx:4:10)\u001b[39m\n\u001b[90m  MaidTabLayout (app/(tabs)/_layout.tsx:31:5)\u001b[39m\n\u001b[90m  RootLayout (app/_layout.tsx:250:13)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1787004004888,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787004004888,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787004004888,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004004889,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004004889,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787004004889,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787004004900,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004005465,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787004024006,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787004024013,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787004024024,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787004024024,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1787004024024,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787004024024,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787004024032,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787004024046,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": true, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787004024280,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787004024286,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787004024286,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004024286,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004024297,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787004024336,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004024337,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024339,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004024491,"level":"error","data":["Text strings must be rendered within a <Text> component.","\n\n\u001b[1mCode: metroServerLogs.native.ts\u001b[22m\n\u001b[0m \u001b[90m 103 |\u001b[39m }\n \u001b[90m 104 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 105 |\u001b[39m \u001b[36mclass\u001b[39m \u001b[33mNamelessError\u001b[39m \u001b[36mextends\u001b[39m \u001b[33mError\u001b[39m {\n \u001b[90m     |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 106 |\u001b[39m   name \u001b[33m=\u001b[39m \u001b[32m''\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m 107 |\u001b[39m }\n \u001b[90m 108 |\u001b[39m \u001b[36mfunction\u001b[39m captureCurrentStack() {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  NamelessError (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:105)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  captureCurrentStack (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:110:27)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  HMRClient.log (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:42:79)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  console.level (node_modules/react-native/Libraries/Core/setUpDeveloperTools.js:41:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createTextInstance (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15896:22)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  completeWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:10103:58)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  run (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:697:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  completeUnitOfWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:14270:36)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:14151:29)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  workLoopSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13966:58)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  renderRootSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13947:23)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performWorkOnRoot (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13087:25)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performSyncWorkOnRoot (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3688:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  flushSyncWorkAcrossRoots_impl (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3538:42)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  processRootScheduleInMicrotask (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3570:38)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  scheduleMicrotask$argument_0 (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3708:47)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: MaidHome.tsx\u001b[22m\n\u001b[0m \u001b[90m 576 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mView\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 577 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 578 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mScrollView\u001b[39m\n \u001b[90m     |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 579 |\u001b[39m         showsVerticalScrollIndicator\u001b[33m=\u001b[39m{\u001b[36mfalse\u001b[39m}\n \u001b[90m 580 |\u001b[39m         refreshControl\u001b[33m=\u001b[39m{\n \u001b[90m 581 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mRefreshControl\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  MaidHomeScreen (components/home/MaidHome.tsx:578:7)\u001b[39m\n\u001b[90m  MaidHomeTab (app/(tabs)/index.tsx:4:10)\u001b[39m\n\u001b[90m  MaidTabLayout (app/(tabs)/_layout.tsx:31:5)\u001b[39m\n\u001b[90m  RootLayout (app/_layout.tsx:250:13)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1787004024656,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004024665,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787004024727,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004024746,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787004024828,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024834,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004024835,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004024842,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787004024842,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787004025400,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787004025406,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787004025927,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787004025934,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787004025934,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1787004098396,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004098405,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004098406,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004101884,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004101893,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004103369,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004103407,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787004105195,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787004105201,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787004105202,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:bundling:started","_t":1787008644364,"id":"n","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1787008644374,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787008644494,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787008645161,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787008645520,"id":"n","total":1,"ms":1150.401875}
+{"_e":"metro:client_log","_t":1787008649149,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787008649149,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1787008649149,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1787008649149,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1787008649149,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787008649235,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787008649243,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787008649243,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787008649285,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787008649295,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1787008649295,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787008650743,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008650751,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787008650831,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787008650872,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008650873,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787008651242,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008651252,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787008651272,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787008651663,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787008651670,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787008651672,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008651672,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787008651672,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787008651691,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787008651702,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787008651709,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787008654532,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787008654563,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787008654838,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787008654847,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787008654847,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1787008694357,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008694364,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787008694364,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787008694365,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787008694365,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787008694365,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787008694365,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787008694365,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787008696345,"level":"error","data":["[TypeError: Cannot read property 'key' of null]","\n\n\u001b[1mCode: withdraw.tsx\u001b[22m\n\u001b[0m \u001b[90m 264 |\u001b[39m   \u001b[90m// ── Updated Bank Transfer Form ──\u001b[39m\n \u001b[90m 265 |\u001b[39m   {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 266 |\u001b[39m     selectedMethod\u001b[33m.\u001b[39mkey \u001b[33m===\u001b[39m \u001b[32m\"bank_transfer\"\u001b[39m \u001b[33m&&\u001b[39m (\n \u001b[90m     |\u001b[39m                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 267 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 268 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{s\u001b[33m.\u001b[39mfield}\u001b[33m>\u001b[39m\n \u001b[90m 269 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{s\u001b[33m.\u001b[39mfieldLabel}\u001b[33m>\u001b[39m\u001b[33mBank\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  WithdrawScreen (app/withdraw.tsx:266:19)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 248 |\u001b[39m           \u001b[33m<\u001b[39m\u001b[33mAppToastProvider\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 249 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStatusBar\u001b[39m style\u001b[33m=\u001b[39m\u001b[32m\"light\"\u001b[39m backgroundColor\u001b[33m=\u001b[39m\u001b[32m\"#1a1a2e\"\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 250 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m screenOptions\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }}\u001b[33m>\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 251 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(auth)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 252 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m name\u001b[33m=\u001b[39m\u001b[32m\"(tabs)\"\u001b[39m options\u001b[33m=\u001b[39m{{ headerShown\u001b[33m:\u001b[39m \u001b[36mfalse\u001b[39m }} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 253 |\u001b[39m               \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\u001b[33m.\u001b[39m\u001b[33mScreen\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  RootLayout (app/_layout.tsx:250:13)\u001b[39m"]}
+{"_e":"metro:bundling:failed","_t":1787008787880,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (396:0)\n\n  394 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  395 |   // ... rest of wire transfer fields\n> 396 | )}\n      | ^\n  397 |\n  398 | {/* ── MOBILE MONEY ── */}\n  399 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008788831,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (396:0)\n\n  394 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  395 |   // ... rest of wire transfer fields\n> 396 | )}\n      | ^\n  397 |\n  398 | {/* ── MOBILE MONEY ── */}\n  399 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008800576,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (398:0)\n\n  396 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  397 |   // ... rest of wire transfer fields\n> 398 | )}\n      | ^\n  399 |\n  400 | {/* ── MOBILE MONEY ── */}\n  401 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008801590,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (398:0)\n\n  396 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  397 |   // ... rest of wire transfer fields\n> 398 | )}\n      | ^\n  399 |\n  400 | {/* ── MOBILE MONEY ── */}\n  401 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008839889,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (396:0)\n\n  394 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  395 |   // ... rest of wire transfer fields\n> 396 | )}\n      | ^\n  397 |\n  398 | {/* ── MOBILE MONEY ── */}\n  399 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008840920,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token (396:0)\n\n  394 | {selectedMethod && selectedMethod.key === \"wire_transfer\" && (\n  395 |   // ... rest of wire transfer fields\n> 396 | )}\n      | ^\n  397 |\n  398 | {/* ── MOBILE MONEY ── */}\n  399 | {selectedMethod && selectedMethod.key === \"mobile_money\" && (","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008974915,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (428:6)\n\n  426 |           </View>\n  427 |         </View>\n> 428 |       </>\n      |       ^\n  429 |     );\n  430 |   }\n  431 |","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787008975911,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (428:6)\n\n  426 |           </View>\n  427 |         </View>\n> 428 |       </>\n      |       ^\n  429 |     );\n  430 |   }\n  431 |","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787009001845,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token, expected \",\" (392:0)\n\n  390 |     </View>\n  391 |   </>\n> 392 | }\n      | ^\n  393 |\n  394 |         {/* ═══ WARNING DISCLAIMER ═══ */}\n  395 |         <View style={s.disclaimerBox}>","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1787009002846,"id":null,"message":"SyntaxError: /Users/onwukwennamdi/Desktop/deusizi-sparkle-app/apps/maid/app/withdraw.tsx: Unexpected token, expected \",\" (392:0)\n\n  390 |     </View>\n  391 |   </>\n> 392 | }\n      | ^\n  393 |\n  394 |         {/* ═══ WARNING DISCLAIMER ═══ */}\n  395 |         <View style={s.disclaimerBox}>","importStack":null,"filename":"app/withdraw.tsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1787009049421,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787009049428,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787009049428,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787009049429,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787009049429,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787009049429,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787009049437,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787009049437,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787009049448,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.31%3A8081"]}
+{"_e":"metro:client_log","_t":1787009049448,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787009049448,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787009049465,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787009049477,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": true, \"isInitialized\": true, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787009050204,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787009052784,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009052796,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009052820,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009052970,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787009052976,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787009052977,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787009052977,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009052977,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787009053044,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009053053,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787009053076,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787009053309,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787009053569,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787009054216,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787009054234,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787009054234,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1787009056309,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009056317,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009056318,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009058262,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009058269,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009246813,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009246821,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009246821,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009246821,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009246821,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009246821,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009246822,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009246822,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787009248973,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}

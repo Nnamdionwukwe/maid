@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "Deusizi Sparkle – Maid",
+    "slug": "deusizi-sparkle-maid",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/deusizi.jpg",
+    "userInterfaceStyle": "light",
+    "scheme": "deusizimaid",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.deusizisparkle.maid",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Deusizi needs your location for job matching.",
+        "NSCameraUsageDescription": "Deusizi needs camera access for video calls.",
+        "NSMicrophoneUsageDescription": "Deusizi needs microphone access for video calls.",
+        "NSPhotoLibraryUsageDescription": "Deusizi needs photo access for verification uploads."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/deusizi.jpg",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.deusizisparkle.maid",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "RECORD_AUDIO",
+        "READ_EXTERNAL_STORAGE",
+        "VIBRATE",
+        "WAKE_LOCK"
+      ],
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-font",
+      "expo-splash-screen",
+      "expo-status-bar",
+      "expo-web-browser",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/deusizi.jpg",
+          "color": "#1a1a2e"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2e92589f-9de3-4bae-95e7-fb8fa15aed22"
+      },
+      "expoAuthSession": {
+        "redirectUri": "com.deusizisparkle.maid://oauth2redirect"
+      }
+    },
+    "owner": "nnamdi-michael"
+  }
+}

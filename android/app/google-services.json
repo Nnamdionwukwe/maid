@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981568518761",
+    "project_id": "deusizi-sparkle",
+    "storage_bucket": "deusizi-sparkle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981568518761:android:6c4842e1b7609313e240f8",
+        "android_client_info": {
+          "package_name": "com.deusizisparkle.maid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUFwg08ixcG--qYP75TVfptW231ruNSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
