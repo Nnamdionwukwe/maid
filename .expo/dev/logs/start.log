@@ -1285,3 +1285,197 @@
 {"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
 {"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] ===================="]}
 {"_e":"metro:client_log","_t":1787009248979,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"root:init","_t":1787089455961,"format":"v0-jsonl","version":"57.0.16"}
+{"_e":"metro:bundling:started","_t":1787089467219,"id":"t","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1787089467219,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089467303,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089467474,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089467788,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089467897,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468041,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468267,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468367,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468467,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468568,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468668,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468768,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787089468875,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787089469122,"id":"t","total":1,"ms":1903.183625}
+{"_e":"metro:client_log","_t":1787089475288,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787089475288,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1787089475288,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1787089475288,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1787089475288,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787089475558,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787089475566,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787089475566,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787089475566,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787089475566,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.35%3A8081"]}
+{"_e":"metro:client_log","_t":1787089475566,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787089477229,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089477236,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787089477361,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787089477369,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787089477369,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089477370,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089477809,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089477816,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787089478046,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787089478052,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787089478052,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089478053,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787089478053,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787089478140,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787089478161,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787089478940,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787089478951,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787089479237,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787089479246,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787089479246,"level":"log","data":["✅ Notification listeners set up"]}
+{"_e":"metro:client_log","_t":1787089567994,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089568002,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089568003,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089572499,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089572506,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089574926,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089574942,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089576589,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089576596,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089576596,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089576596,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089576597,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089576597,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089576597,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089576597,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089577193,"level":"log","data":["[MaidProfile] Rate custom raw:","{\"3 Months Estate Management\": 1000000, \"6 Months Property Maintenance\": 5000000, \"Monthly Short-Let Property Support\": 200000}"]}
+{"_e":"metro:client_log","_t":1787089577202,"level":"log","data":["[MaidProfile] Custom rates set:","[{\"amount\": \"1000000\", \"name\": \"3 Months Estate Management\"}, {\"amount\": \"5000000\", \"name\": \"6 Months Property Maintenance\"}, {\"amount\": \"200000\", \"name\": \"Monthly Short-Let Property Support\"}]"]}
+{"_e":"metro:client_log","_t":1787089593348,"level":"warn","data":["react-i18next:: useTranslation: You will need to pass in an i18next instance by using initReactI18next or by passing it via props or context. In monorepo setups, make sure there is only one instance of react-i18next.","{\"code\": \"NO_I18NEXT_INSTANCE\"}"]}
+{"_e":"metro:client_log","_t":1787089593801,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089593807,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787089593807,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089593807,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787089593807,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787089593808,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787089593808,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089593808,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089596283,"level":"log","data":["[Auth] Logging out..."]}
+{"_e":"metro:client_log","_t":1787089596866,"level":"log","data":["[Auth] Logout complete"]}
+{"_e":"metro:client_log","_t":1787089597559,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089597581,"level":"log","data":["[Navigation] isLoggedIn:","false"]}
+{"_e":"metro:client_log","_t":1787089597581,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787089597581,"level":"log","data":["[Navigation] user:","undefined"]}
+{"_e":"metro:client_log","_t":1787089597582,"level":"log","data":["[Navigation] user data:","null"]}
+{"_e":"metro:client_log","_t":1787089597582,"level":"log","data":["[Navigation] isAuthenticated:","false"]}
+{"_e":"metro:client_log","_t":1787089597582,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089597582,"level":"log","data":["[Navigation] ❌ User not logged in, redirecting to login"]}
+{"_e":"metro:client_log","_t":1787089598029,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089598037,"level":"log","data":["[Navigation] isLoggedIn:","false"]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] inAuthGroup:","true"]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] user:","undefined"]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] user data:","null"]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] isAuthenticated:","false"]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787089598038,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787089601203,"level":"log","data":["[Google Auth] Starting Google Sign-In..."]}
+{"_e":"metro:client_log","_t":1787089601211,"level":"log","data":["[Google Auth] Opening: https://accounts.google.com/o/oauth2/v2/auth?client_id=586260940970-a4r25osung9ejm9ip06n6bigfmt7nr1a.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fdeusizisparkle.com%2Foauth-redirect&response_type=token&scope=openid+email+profile&state=maid"]}
+{"_e":"metro:bundling:started","_t":1787097008272,"id":"u","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1787097008273,"id":"u","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1787097008718,"id":"u","total":1,"ms":444.800958}
+{"_e":"metro:client_log","_t":1787097014620,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787097014621,"level":"log","data":["[Google Auth] Using WEB OAuth flow with web redirect"]}
+{"_e":"metro:client_log","_t":1787097014621,"level":"log","data":["[Google Auth] Client ID: 586260940970-a4r25osung9ejm9ip06n6bigfmt..."]}
+{"_e":"metro:client_log","_t":1787097014621,"level":"log","data":["[Google Auth] Redirect URI: https://deusizisparkle.com/oauth-redirect"]}
+{"_e":"metro:client_log","_t":1787097014621,"level":"log","data":["━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"]}
+{"_e":"metro:client_log","_t":1787097014796,"level":"log","data":["[Layout] Initializing auth..."]}
+{"_e":"metro:client_log","_t":1787097014836,"level":"log","data":["[Auth] Initializing..."]}
+{"_e":"metro:client_log","_t":1787097014836,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787097014836,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": false, \"isLoading\": true}"]}
+{"_e":"metro:client_log","_t":1787097014836,"level":"log","data":["[DeepLink] Initial URL:","exp+deusizi-sparkle-maid://expo-development-client/?url=http%3A%2F%2F192.168.0.35%3A8081"]}
+{"_e":"metro:client_log","_t":1787097014855,"level":"log","data":["[Auth] Checking session with token..."]}
+{"_e":"metro:client_log","_t":1787097016823,"level":"log","data":["[Auth] Session restored for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787097016831,"level":"log","data":["[Auth] Maid data from init:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787097016925,"level":"log","data":["[Layout] Fonts loaded and auth initialized, hiding splash"]}
+{"_e":"metro:client_log","_t":1787097016932,"level":"log","data":["[Layout] App started with authenticated user, refreshing data..."]}
+{"_e":"metro:client_log","_t":1787097016932,"level":"log","data":["[Auth] 🔄 refreshUser called, token exists:","true"]}
+{"_e":"metro:client_log","_t":1787097016933,"level":"log","data":["[Auth] Refreshing user data from server..."]}
+{"_e":"metro:client_log","_t":1787097016933,"level":"log","data":["[Navigation] Waiting for auth to be ready...","{\"authReady\": false, \"isInitialized\": true, \"isLoading\": false}"]}
+{"_e":"metro:client_log","_t":1787097016962,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097016969,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787097016969,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787097016970,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787097016970,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787097016970,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787097016970,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097016970,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787097017364,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097017371,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787097017407,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787097017845,"level":"log","data":["[Auth] Refresh response status:","200"]}
+{"_e":"metro:client_log","_t":1787097017849,"level":"log","data":["[Auth] Refresh response data:","{\n  \"user\": {\n    \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\",\n    \"name\": \"GesTechCom\",\n    \"email\": \"nnamdionwukwe@gmail.com\",\n    \"avatar\": \"https://res.cloudinary.com/dlh6z8ygd/image/upload/v1786979020/izimaid/avatars/user_70585ae6-cebd-4a99-8aab-cbb62866783e.jpg\",\n    \"role\": \"maid\",\n    \"phone\": \"+2347038689373\",\n    \"country\": \"MX\",\n    \"language\": \"en\",\n    \"email_verified\": true,\n    \"auth_provider\": \"email\",\n    \"created_at\": \"2026-08-09T23:27:09.040Z\",\n    \"subscription_plan\": \"free\",\n    \"subscription_badge\": null,\n    \"theme\": \"light\",\n    \"currency\": \"KES\",\n    \"notifications_email\": true,\n    \"notifications_push\": true,\n    \"id_verified\": true,\n    \"background_checked\": false,\n    \"has_pro_badge\": false\n  }\n}"]}
+{"_e":"metro:client_log","_t":1787097017851,"level":"log","data":["[Auth] ✅ Refresh successful for:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787097017851,"level":"log","data":["[Auth] ✅ Maid data from refresh:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787097017851,"level":"log","data":["[Auth] ✅ State updated after refresh"]}
+{"_e":"metro:client_log","_t":1787097017887,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097017906,"level":"log","data":["[Navigation] isLoggedIn:","true"]}
+{"_e":"metro:client_log","_t":1787097017906,"level":"log","data":["[Navigation] inAuthGroup:","false"]}
+{"_e":"metro:client_log","_t":1787097017906,"level":"log","data":["[Navigation] user:","nnamdionwukwe@gmail.com"]}
+{"_e":"metro:client_log","_t":1787097017906,"level":"log","data":["[Navigation] user data:","{\"background_checked\": false, \"id\": \"70585ae6-cebd-4a99-8aab-cbb62866783e\", \"id_verified\": true, \"name\": \"GesTechCom\", \"role\": \"maid\"}"]}
+{"_e":"metro:client_log","_t":1787097017907,"level":"log","data":["[Navigation] isAuthenticated:","true"]}
+{"_e":"metro:client_log","_t":1787097017907,"level":"log","data":["[Navigation] ===================="]}
+{"_e":"metro:client_log","_t":1787097017907,"level":"log","data":["[Navigation] ℹ️ No navigation action needed"]}
+{"_e":"metro:client_log","_t":1787097017908,"level":"log","data":["[Layout] User data refreshed on app start"]}
+{"_e":"metro:client_log","_t":1787097017908,"level":"log","data":["[Layout] Refreshed maid data:","{\"background_checked\": false, \"has_pro_badge\": false, \"id_verified\": true}"]}
+{"_e":"metro:client_log","_t":1787097017908,"level":"log","data":["Using project ID:","2e92589f-9de3-4bae-95e7-fb8fa15aed22"]}
+{"_e":"metro:client_log","_t":1787097018616,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787097018623,"level":"log","data":["✅ Push token obtained:","ExponentPushToken[j5OSYdFyPIk5AnFyNtQNfi]"]}
+{"_e":"metro:client_log","_t":1787097018969,"level":"log","data":["✅ Push token saved to server"]}
+{"_e":"metro:client_log","_t":1787097018977,"level":"log","data":["✅ Push token registered and saved"]}
+{"_e":"metro:client_log","_t":1787097018977,"level":"log","data":["✅ Notification listeners set up"]}
