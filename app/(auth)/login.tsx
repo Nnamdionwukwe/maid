@@ -19,6 +19,7 @@ import { useAuthStore } from "../../stores/authStore";
 import { useGoogleAuth } from "../../constants/google";
 import { COLORS, FONTS, SPACING, RADIUS } from "../../constants";
 import { useAppToast } from "../../components/AppToast";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 export default function LoginScreen() {
   const router = useRouter();
@@ -262,7 +263,8 @@ export default function LoginScreen() {
         {/* ── Maid badge ── */}
         <View style={s.maidBadge}>
           <View style={s.maidBadgeInner}>
-            <Text style={s.maidBadgeText}>🧹 I am a worker</Text>
+            <FontAwesome5 name="broom" size={14} color={COLORS.blue} />
+            <Text style={s.maidBadgeText}> I am a worker</Text>
           </View>
         </View>
 
@@ -277,7 +279,7 @@ export default function LoginScreen() {
             <ActivityIndicator size="small" color={COLORS.navy} />
           ) : (
             <>
-              <Text style={s.googleG}>G</Text>
+              <FontAwesome5 name="google" size={18} color="#4285F4" />
               <Text style={s.googleText}>Continue with Google</Text>
             </>
           )}
@@ -318,7 +320,11 @@ export default function LoginScreen() {
             style={s.eyeBtn}
             onPress={() => setShowPassword((v) => !v)}
           >
-            <Text style={{ fontSize: 18 }}>{showPassword ? "🙈" : "👁️"}</Text>
+            <FontAwesome5
+              name={showPassword ? "eye-slash" : "eye"}
+              size={18}
+              color={COLORS.gray}
+            />
           </TouchableOpacity>
         </View>
 
@@ -401,10 +407,14 @@ const s = StyleSheet.create({
   },
 
   maidBadge: {
+    flexDirection: "row",
     alignItems: "center",
+    justifyContent: "center",
     marginBottom: SPACING.xl,
   },
   maidBadgeInner: {
+    flexDirection: "row",
+    alignItems: "center",
     backgroundColor: "#e8f0fe",
     paddingHorizontal: SPACING.xl,
     paddingVertical: SPACING.sm,
@@ -429,8 +439,11 @@ const s = StyleSheet.create({
     marginBottom: SPACING.lg,
     height: 52,
   },
-  googleG: { fontSize: 18, fontWeight: "700", color: "#4285F4" },
-  googleText: { fontFamily: FONTS.medium, fontSize: 15, color: COLORS.navy },
+  googleText: {
+    fontFamily: FONTS.medium,
+    fontSize: 15,
+    color: COLORS.navy,
+  },
 
   dividerRow: {
     flexDirection: "row",

@@ -19,6 +19,7 @@ import { API_URL, COLORS, FONTS, SPACING, RADIUS } from "../../constants";
 import { useAuthStore } from "../../stores/authStore";
 import { useGoogleAuth } from "../../constants/google";
 import { useAppToast } from "../../components/AppToast";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 export default function RegisterScreen() {
   const router = useRouter();
@@ -200,7 +201,7 @@ export default function RegisterScreen() {
         <SafeAreaView edges={["top"]}>
           <View style={s.topBar}>
             <TouchableOpacity onPress={() => router.back()} style={s.backBtn}>
-              <Text style={s.backText}>←</Text>
+              <FontAwesome5 name="arrow-left" size={20} color={COLORS.navy} />
             </TouchableOpacity>
             <Text style={s.brand}>Deusizi Sparkle</Text>
             <View style={{ width: 40 }} />
@@ -213,7 +214,8 @@ export default function RegisterScreen() {
         {/* ── Maid badge ── */}
         <View style={s.maidBadge}>
           <View style={s.maidBadgeInner}>
-            <Text style={s.maidBadgeText}>🧹 I am a worker</Text>
+            <FontAwesome5 name="broom" size={14} color={COLORS.blue} />
+            <Text style={s.maidBadgeText}> I am a worker</Text>
           </View>
         </View>
 
@@ -228,7 +230,7 @@ export default function RegisterScreen() {
             <ActivityIndicator size="small" color={COLORS.navy} />
           ) : (
             <>
-              <Text style={s.googleG}>G</Text>
+              <FontAwesome5 name="google" size={18} color="#4285F4" />
               <Text style={s.googleText}>Sign up with Google</Text>
             </>
           )}
@@ -289,7 +291,11 @@ export default function RegisterScreen() {
             style={s.eyeBtn}
             onPress={() => setShowPassword((v) => !v)}
           >
-            <Text style={{ fontSize: 18 }}>{showPassword ? "🙈" : "👁️"}</Text>
+            <FontAwesome5
+              name={showPassword ? "eye-slash" : "eye"}
+              size={18}
+              color={COLORS.gray}
+            />
           </TouchableOpacity>
         </View>
 
@@ -316,7 +322,11 @@ export default function RegisterScreen() {
             style={s.eyeBtn}
             onPress={() => setShowConfirm((v) => !v)}
           >
-            <Text style={{ fontSize: 18 }}>{showConfirm ? "🙈" : "👁️"}</Text>
+            <FontAwesome5
+              name={showConfirm ? "eye-slash" : "eye"}
+              size={18}
+              color={COLORS.gray}
+            />
           </TouchableOpacity>
         </View>
         {confirm.length > 0 && confirm !== password && (
@@ -379,8 +389,10 @@ const s = StyleSheet.create({
     paddingTop: SPACING.md,
     paddingBottom: SPACING.xl,
   },
-  backBtn: { width: 40 },
-  backText: { fontSize: 24, color: COLORS.navy },
+  backBtn: {
+    width: 40,
+    paddingVertical: 8,
+  },
   brand: { fontFamily: FONTS.bold, fontSize: 18, color: COLORS.navy },
   title: {
     fontFamily: FONTS.bold,
@@ -396,10 +408,14 @@ const s = StyleSheet.create({
   },
 
   maidBadge: {
+    flexDirection: "row",
     alignItems: "center",
+    justifyContent: "center",
     marginBottom: SPACING.xl,
   },
   maidBadgeInner: {
+    flexDirection: "row",
+    alignItems: "center",
     backgroundColor: "#e8f0fe",
     paddingHorizontal: SPACING.xl,
     paddingVertical: SPACING.sm,
@@ -423,8 +439,11 @@ const s = StyleSheet.create({
     gap: SPACING.sm,
     marginBottom: SPACING.lg,
   },
-  googleG: { fontSize: 18, fontWeight: "700", color: "#4285F4" },
-  googleText: { fontFamily: FONTS.medium, fontSize: 15, color: COLORS.navy },
+  googleText: {
+    fontFamily: FONTS.medium,
+    fontSize: 15,
+    color: COLORS.navy,
+  },
 
   dividerRow: {
     flexDirection: "row",
@@ -474,7 +493,11 @@ const s = StyleSheet.create({
     backgroundColor: COLORS.white,
     overflow: "hidden",
   },
-  eyeBtn: { paddingHorizontal: SPACING.md },
+  eyeBtn: {
+    paddingHorizontal: SPACING.md,
+    height: 52,
+    justifyContent: "center",
+  },
   errorText: {
     fontFamily: FONTS.regular,
     fontSize: 12,

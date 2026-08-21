@@ -11,6 +11,7 @@ import { useRouter } from "expo-router";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { API_URL, COLORS, FONTS, SPACING, RADIUS } from "../../constants";
 import { useAppToast } from "../../components/AppToast";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 export default function ForgotPasswordScreen() {
   const router = useRouter();
@@ -52,12 +53,15 @@ export default function ForgotPasswordScreen() {
     <SafeAreaView style={s.safe}>
       <View style={s.container}>
         <TouchableOpacity style={s.backBtn} onPress={() => router.back()}>
-          <Text style={s.backText}>← Back</Text>
+          <FontAwesome5 name="arrow-left" size={16} color={COLORS.navy} />
+          <Text style={s.backText}> Back</Text>
         </TouchableOpacity>
 
         {sent ? (
           <>
-            <Text style={s.emoji}>✉️</Text>
+            <View style={s.iconContainer}>
+              <FontAwesome5 name="envelope" size={48} color={COLORS.navy} />
+            </View>
             <Text style={s.title}>Check your email</Text>
             <Text style={s.body}>
               If an account exists for {email}, you'll receive a password reset
@@ -116,11 +120,24 @@ export default function ForgotPasswordScreen() {
 const s = StyleSheet.create({
   safe: { flex: 1, backgroundColor: COLORS.cream },
   container: { flex: 1, paddingHorizontal: SPACING.xl, paddingTop: SPACING.lg },
-  backBtn: { marginBottom: SPACING.xl },
-  backText: { fontFamily: FONTS.medium, fontSize: 15, color: COLORS.navy },
-  emoji: {
-    fontSize: 48,
-    textAlign: "center",
+  backBtn: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginBottom: SPACING.xl,
+  },
+  backText: {
+    fontFamily: FONTS.medium,
+    fontSize: 15,
+    color: COLORS.navy,
+  },
+  iconContainer: {
+    width: 72,
+    height: 72,
+    borderRadius: 36,
+    backgroundColor: "#e8f0fe",
+    alignItems: "center",
+    justifyContent: "center",
+    alignSelf: "center",
     marginBottom: SPACING.lg,
     marginTop: SPACING.xxxl,
   },

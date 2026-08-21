@@ -13,6 +13,7 @@ import { useRouter, useLocalSearchParams } from "expo-router";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useAuthStore } from "../../stores/authStore";
 import { useAppToast } from "../../components/AppToast";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 import { API_URL, COLORS, FONTS, SPACING, RADIUS } from "../../constants";
 
@@ -73,7 +74,9 @@ export default function CompleteProfileScreen() {
         <View style={s.container}>
           {/* Header */}
           <View style={s.header}>
-            <Text style={s.emoji}>📱</Text>
+            <View style={s.iconContainer}>
+              <FontAwesome5 name="phone" size={40} color={COLORS.navy} />
+            </View>
             <Text style={s.title}>One last step</Text>
             <Text style={s.sub}>
               Hi {name ? name.split(" ")[0] : "there"}! Add your phone number so
@@ -118,13 +121,31 @@ export default function CompleteProfileScreen() {
           {/* Why */}
           <View style={s.whyCard}>
             <Text style={s.whyTitle}>Why we ask for your number</Text>
-            <Text style={s.whyItem}>
-              📞 Maid can call if they can't find your location
-            </Text>
-            <Text style={s.whyItem}>🔔 SMS updates on your booking status</Text>
-            <Text style={s.whyItem}>
-              🚨 Emergency contact during SOS alerts
-            </Text>
+            <View style={s.whyItem}>
+              <FontAwesome5 name="phone" size={14} color={COLORS.blue} />
+              <Text style={s.whyItemText}>
+                {" "}
+                Maid can call if they can't find your location
+              </Text>
+            </View>
+            <View style={s.whyItem}>
+              <FontAwesome5 name="sms" size={14} color={COLORS.blue} />
+              <Text style={s.whyItemText}>
+                {" "}
+                SMS updates on your booking status
+              </Text>
+            </View>
+            <View style={s.whyItem}>
+              <FontAwesome5
+                name="exclamation-triangle"
+                size={14}
+                color={COLORS.blue}
+              />
+              <Text style={s.whyItemText}>
+                {" "}
+                Emergency contact during SOS alerts
+              </Text>
+            </View>
           </View>
         </View>
       </SafeAreaView>
@@ -136,7 +157,15 @@ const s = StyleSheet.create({
   safe: { flex: 1 },
   container: { flex: 1, paddingHorizontal: SPACING.xl, paddingTop: SPACING.xl },
   header: { alignItems: "center", marginBottom: SPACING.xl },
-  emoji: { fontSize: 56, marginBottom: SPACING.lg },
+  iconContainer: {
+    width: 72,
+    height: 72,
+    borderRadius: 36,
+    backgroundColor: "#e8f0fe",
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: SPACING.lg,
+  },
   title: {
     fontFamily: FONTS.bold,
     fontSize: 28,
@@ -216,10 +245,16 @@ const s = StyleSheet.create({
     marginBottom: SPACING.md,
   },
   whyItem: {
+    flexDirection: "row",
+    alignItems: "flex-start",
+    marginBottom: SPACING.sm,
+  },
+  whyItemText: {
     fontFamily: FONTS.regular,
     fontSize: 13,
     color: COLORS.navy,
-    marginBottom: SPACING.sm,
     lineHeight: 20,
+    flex: 1,
+    marginLeft: 8,
   },
 });

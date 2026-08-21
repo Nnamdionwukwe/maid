@@ -9,14 +9,15 @@ import {
 import { useRouter, useLocalSearchParams } from "expo-router";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { API_URL, COLORS, FONTS, SPACING, RADIUS } from "../../constants";
-import { useAppToast } from "../../components/AppToast"; // ← add
+import { useAppToast } from "../../components/AppToast";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 export default function VerifyEmailScreen() {
   const router = useRouter();
   const { email } = useLocalSearchParams<{ email: string }>();
   const [resending, setResending] = useState(false);
 
-  const { toast } = useAppToast(); // ← add
+  const { toast } = useAppToast();
 
   async function handleResend() {
     setResending(true);
@@ -56,13 +57,15 @@ export default function VerifyEmailScreen() {
   return (
     <SafeAreaView style={s.safe}>
       <View style={s.container}>
-        <Text style={s.emoji}>📧</Text>
+        <View style={s.iconContainer}>
+          <FontAwesome5 name="envelope" size={56} color={COLORS.navy} />
+        </View>
         <Text style={s.title}>Check your email</Text>
         <Text style={s.sub}>We've sent a verification link to:</Text>
         <Text style={s.email}>{email}</Text>
         <Text style={s.body}>
           Click the link in the email to verify your account, check Spam if not
-          found. then come back here to sign in.
+          found, then come back here to sign in.
         </Text>
 
         <TouchableOpacity
@@ -97,7 +100,15 @@ const s = StyleSheet.create({
     justifyContent: "center",
     paddingHorizontal: SPACING.xl,
   },
-  emoji: { fontSize: 64, marginBottom: SPACING.xl },
+  iconContainer: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    backgroundColor: "#e8f0fe",
+    alignItems: "center",
+    justifyContent: "center",
+    marginBottom: SPACING.xl,
+  },
   title: {
     fontFamily: FONTS.bold,
     fontSize: 26,
