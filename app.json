@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Deusizi Sparkle – Maid",
+    "name": "Deusizi Sparkle – Pro",
     "slug": "deusizi-sparkle-maid",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -31,7 +31,20 @@
         "VIBRATE",
         "WAKE_LOCK"
       ],
-      "googleServicesFile": "./google-services.json"
+      "googleServicesFile": "./google-services.json",
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "https",
+              "host": "deusizisparkle.com",
+              "pathPrefix": "/oauth-redirect-maid"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
     },
     "plugins": [
       "expo-router",
@@ -60,6 +73,15 @@
         "redirectUri": "com.deusizisparkle.maid://oauth2redirect"
       }
     },
-    "owner": "nnamdi-michael"
+    "owner": "nnamdi-michael",
+    "updates": {
+      "url": "https://u.expo.dev/2e92589f-9de3-4bae-95e7-fb8fa15aed22",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }

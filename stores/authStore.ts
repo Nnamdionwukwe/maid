@@ -1,3 +1,5 @@
+// apps/maid/stores/authStore.ts
+
 import { create } from "zustand";
 import * as SecureStore from "expo-secure-store";
 import { API_URL } from "../constants";
@@ -45,6 +47,8 @@ interface AuthState {
   updateUser: (user: User) => void;
   setUser: (user: User) => void;
   reset: () => void;
+  // ─── NEW: Check if user is allowed ───
+  isUserAllowed: (user: User) => boolean;
 }
 
 const storage = {
@@ -77,6 +81,20 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
   isLoading: true,
   isAuthenticated: false,
   isInitialized: false,
+
+  // ─── ROLE CHECK: Only maids are allowed ───
+  isUserAllowed: (user: User) => {
+    if (user.role === "customer") {
+      console.log("🚫 [Auth] Customer detected in maid app - blocking access");
+      return false;
+    }
+    if (user.role === "maid") {
+      console.log("✅ [Auth] Maid detected - access granted");
+      return true;
+    }
+    console.log("⚠️ [Auth] Unknown role:", user.role);
+    return false;
+  },
 
   init: async () => {
     console.log("[Auth] Initializing...");
@@ -117,6 +135,22 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
 
       if (!data.user) {
         throw new Error("No user data received");
+      }
+
+      // ─── ROLE CHECK: Block customers ───
+      if (data.user.role === "customer") {
+        console.log(
+          "🚫 [Auth] Customer detected during init - blocking access",
+        );
+        await storage.removeItem("auth_token");
+        set({
+          user: null,
+          token: null,
+          isAuthenticated: false,
+          isInitialized: true,
+          isLoading: false,
+        });
+        return;
       }
 
       console.log("[Auth] Session restored for:", data.user.email);
@@ -166,6 +200,16 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
           throw new Error("NO_PASSWORD_SET");
         }
         throw new Error(data.error || "Login failed");
+      }
+
+      // ─── ROLE CHECK: Block customers ───
+      if (data.user?.role === "customer") {
+        console.log(
+          "🚫 [Auth] Customer detected during login - blocking access",
+        );
+        await storage.removeItem("auth_token");
+        set({ isLoading: false });
+        throw new Error("CUSTOMER_ACCESS_DENIED");
       }
 
       await storage.setItem("auth_token", String(data.token));
@@ -311,13 +355,24 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
       }
 
       const data = await res.json();
-      console.log(
-        "[Auth] Refresh response data:",
-        JSON.stringify(data, null, 2),
-      );
 
       if (!data.user) {
         console.error("[Auth] No user data in refresh response");
+        return null;
+      }
+
+      // ─── ROLE CHECK: Block customers ───
+      if (data.user.role === "customer") {
+        console.log(
+          "🚫 [Auth] Customer detected during refresh - blocking access",
+        );
+        await storage.removeItem("auth_token");
+        set({
+          user: null,
+          token: null,
+          isAuthenticated: false,
+          isLoading: false,
+        });
         return null;
       }
 
@@ -344,6 +399,11 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
 
   updateUser: (user: User) => {
     console.log("[Auth] updateUser called for:", user.email);
+    // ─── ROLE CHECK: Block customers ───
+    if (user.role === "customer") {
+      console.log("🚫 [Auth] Customer detected in updateUser - blocking");
+      return;
+    }
     set({
       user: { ...user },
       isAuthenticated: true,
@@ -356,6 +416,21 @@ export const useAuthStore = create<AuthState>()((set, get) => ({
     console.log("[Auth] User email:", user.email);
     console.log("[Auth] User role:", user.role);
     console.log("[Auth] User data:", JSON.stringify(user, null, 2));
+
+    // ─── ROLE CHECK: Block customers ───
+    if (user.role === "customer") {
+      console.log("🚫 [Auth] Customer detected in setUser - blocking access");
+      // Clear token and reset state
+      storage.removeItem("auth_token").catch(() => {});
+      set({
+        user: null,
+        token: null,
+        isAuthenticated: false,
+        isLoading: false,
+      });
+      return;
+    }
+
     console.log("[Auth] Maid data:", {
       id_verified: user.id_verified,
       background_checked: user.background_checked,

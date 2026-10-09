@@ -1645,8 +1645,8 @@ export default function MaidSettingsScreen() {
           <FontAwesome5 name="sign-out-alt" size={16} color="#dc2626" />
           <Text style={s.logoutBtnText}> Sign Out</Text>
         </TouchableOpacity>
-        <Text style={s.version}>Deusizi Sparkle v1.0.0</Text>
-        <Text style={s.version}>Powered By GESTECH</Text>
+        <Text style={s.version}>Deusizi Sparkle - Pro v1.0.0</Text>
+        <Text style={s.version}>Powered By GESTECHCOM</Text>
         <View style={{ height: 40 }} />
       </ScrollView>
 

@@ -35,6 +35,7 @@
     "expo-splash-screen": "~57.0.6",
     "expo-status-bar": "~57.0.1",
     "expo-task-manager": "~57.0.9",
+    "expo-updates": "~57.0.25",
     "expo-web-browser": "~57.0.2",
     "i18next": "^26.0.10",
     "lodash": "^4.18.1",
@@ -56,7 +57,7 @@
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@types/react": "~19.2.4",
-    "eas-cli": "^21.8.0",
+    "eas-cli": "^22.3.0",
     "typescript": "~6.0.3"
   }
 }

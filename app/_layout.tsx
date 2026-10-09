@@ -90,29 +90,63 @@ export default function RootLayout() {
     }
   }, [token, isAuthenticated]);
 
-  // ── Deep link handling for OAuth redirect ──
+  // ── Deep link handling for OAuth redirect and Booking redirect ──
   useEffect(() => {
     const handleDeepLink = async (event: { url: string }) => {
       console.log("[DeepLink] Received:", event.url);
 
+      // ─── Handle OAuth redirect ──────────────────────────────────
       if (event.url.includes("access_token")) {
         console.log("[DeepLink] OAuth redirect detected");
 
         try {
-          // ✅ Clear existing auth state
           reset();
           await SecureStore.deleteItemAsync("auth_token");
           await SecureStore.deleteItemAsync("oauth_redirect_url");
 
-          // ✅ Store the new URL
           await SecureStore.setItemAsync("oauth_redirect_url", event.url);
           console.log("[DeepLink] URL stored, navigating to OAuthRedirect");
           router.replace("/oauth2redirect");
+          return;
         } catch (error) {
           console.error("[DeepLink] Error:", error);
           router.replace("/(auth)/login");
+          return;
         }
       }
+
+      // ─── Handle Maid Booking deep link ──────────────────────────
+      // Format: deusizimaid://booking/da7b0671-61d0-4f9a-b1be-be39a5d0a14d
+      const maidBookingMatch = event.url.match(
+        /deusizimaid:\/\/booking\/([a-f0-9-]+)/,
+      );
+      if (maidBookingMatch) {
+        const bookingId = maidBookingMatch[1];
+        console.log(
+          "[DeepLink] 📹 Maid booking deep link detected:",
+          bookingId,
+        );
+        router.push(`/booking/${bookingId}`);
+        return;
+      }
+
+      // ─── Handle Customer deep link (in case maid opens customer link) ──
+      const customerBookingMatch = event.url.match(
+        /deusizicustomer:\/\/booking\/([a-f0-9-]+)/,
+      );
+      if (customerBookingMatch) {
+        const bookingId = customerBookingMatch[1];
+        console.log(
+          "[DeepLink] 📹 Customer booking deep link detected (maid app):",
+          bookingId,
+        );
+        // Still navigate to the booking in maid app
+        router.push(`/booking/${bookingId}`);
+        return;
+      }
+
+      // ─── Handle generic deep link ──────────────────────────────
+      console.log("[DeepLink] Unhandled deep link:", event.url);
     };
 
     const subscription = Linking.addEventListener("url", handleDeepLink);
@@ -120,6 +154,39 @@ export default function RootLayout() {
     Linking.getInitialURL().then(async (url) => {
       if (url) {
         console.log("[DeepLink] Initial URL:", url);
+
+        // Check if it's a maid booking deep link
+        const maidBookingMatch = url.match(
+          /deusizimaid:\/\/booking\/([a-f0-9-]+)/,
+        );
+        if (maidBookingMatch) {
+          const bookingId = maidBookingMatch[1];
+          console.log(
+            "[DeepLink] 📹 Initial maid booking deep link:",
+            bookingId,
+          );
+          setTimeout(() => {
+            router.push(`/booking/${bookingId}`);
+          }, 1000);
+          return;
+        }
+
+        // Check if it's a customer booking deep link
+        const customerBookingMatch = url.match(
+          /deusizicustomer:\/\/booking\/([a-f0-9-]+)/,
+        );
+        if (customerBookingMatch) {
+          const bookingId = customerBookingMatch[1];
+          console.log(
+            "[DeepLink] 📹 Initial customer booking deep link (maid app):",
+            bookingId,
+          );
+          setTimeout(() => {
+            router.push(`/booking/${bookingId}`);
+          }, 1000);
+          return;
+        }
+
         if (url.includes("access_token")) {
           console.log("[DeepLink] OAuth redirect on app start");
           try {

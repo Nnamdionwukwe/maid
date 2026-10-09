@@ -203,7 +203,7 @@ export default function RegisterScreen() {
             <TouchableOpacity onPress={() => router.back()} style={s.backBtn}>
               <FontAwesome5 name="arrow-left" size={20} color={COLORS.navy} />
             </TouchableOpacity>
-            <Text style={s.brand}>Deusizi Sparkle</Text>
+            <Text style={s.brand}>Deusizi Sparkle - Pro</Text>
             <View style={{ width: 40 }} />
           </View>
         </SafeAreaView>

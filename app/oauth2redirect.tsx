@@ -2,22 +2,72 @@
 
 import { useEffect, useRef } from "react";
 import { useRouter } from "expo-router";
-import { View, Text, ActivityIndicator, StyleSheet } from "react-native";
+import {
+  View,
+  Text,
+  ActivityIndicator,
+  StyleSheet,
+  Alert,
+  Linking,
+} from "react-native";
 import { useAuthStore } from "../stores/authStore";
 import * as SecureStore from "expo-secure-store";
 import { API_URL } from "../constants";
 
 export default function OAuthRedirect() {
   const router = useRouter();
-  const { setUser, refreshUser, reset } = useAuthStore();
+  const { setUser, refreshUser, reset, logout } = useAuthStore();
   const isProcessing = useRef(false);
+
+  // ── Show wrong app alert for customers ──
+  const showWrongAppAlert = () => {
+    logout();
+    reset();
+
+    Alert.alert(
+      "🚫 Access Denied",
+      "You are trying to access the Worker App with a Customer account.\n\n" +
+        "📱 Please download the DEUSIZI SPARKLE app to book services:\n\n" +
+        "• Book professional cleaning services\n" +
+        "• Manage your bookings\n" +
+        "• Track your service history\n" +
+        "• Connect with verified workers\n\n" +
+        "Would you like to download the Customer App now?",
+      [
+        {
+          text: "Dismiss",
+          style: "cancel",
+          onPress: () => {
+            reset();
+            router.replace("/(auth)/login");
+          },
+        },
+        {
+          text: "📲 Download Customer App",
+          onPress: () => {
+            Linking.openURL(
+              "market://details?id=com.deusizisparkle.customer",
+            ).catch(() => {
+              Linking.openURL(
+                "https://play.google.com/store/apps/details?id=com.deusizisparkle.customer",
+              );
+            });
+            reset();
+            setTimeout(() => {
+              router.replace("/(auth)/login");
+            }, 500);
+          },
+        },
+      ],
+      { cancelable: false },
+    );
+  };
 
   useEffect(() => {
     console.log("[OAuthRedirect] ========================================");
     console.log("[OAuthRedirect] 🚀 COMPONENT MOUNTED");
     console.log("[OAuthRedirect] ========================================");
 
-    // ✅ Clear any existing auth state to force fresh load
     reset();
 
     if (isProcessing.current) {
@@ -93,6 +143,17 @@ export default function OAuthRedirect() {
 
               if (!data.token) {
                 throw new Error("No token received from server");
+              }
+
+              // ─── ROLE CHECK: Block customers ───
+              if (data.user?.role === "customer") {
+                console.log(
+                  "[OAuthRedirect] 🚫 Customer detected - blocking access",
+                );
+                await SecureStore.deleteItemAsync("auth_token");
+                await SecureStore.deleteItemAsync("oauth_redirect_url");
+                showWrongAppAlert();
+                return;
               }
 
               // ✅ Store token

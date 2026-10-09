@@ -440,7 +440,7 @@ export default function MaidBookingDetailScreen() {
     }
   }
 
-  // ── Initiate video call ────────────────────────────────────────
+  // ── Initiate video call ─────────────────────
   async function handleVideoCall() {
     setCallLoading(true);
     try {
@@ -449,16 +449,13 @@ export default function MaidBookingDetailScreen() {
       const channel = res.channel;
       if (!channel) throw new Error("No call channel returned");
 
-      router.push({
-        pathname: "/video-call",
-        params: {
-          booking_id: id,
-          channel,
-          token: res.token,
-          app_id: res.app_id,
-          caller_name: booking?.customer_name || "Customer",
-        },
-      } as any);
+      // Build the website URL - same as customer but with role=maid
+      const websiteUrl = `https://deusizisparkle.com/video-call?bookingId=${id}&channel=${encodeURIComponent(channel)}&token=${encodeURIComponent(res.token)}&appId=${encodeURIComponent(res.app_id)}&otherName=${encodeURIComponent(booking?.customer_name || "Customer")}&role=maid`;
+
+      console.log("📹 [Maid] Opening video call URL:", websiteUrl);
+
+      // Open the website in the browser
+      await Linking.openURL(websiteUrl);
     } catch (err: any) {
       toast({
         type: "error",

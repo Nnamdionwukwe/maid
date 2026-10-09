@@ -252,7 +252,7 @@ export default function LoginScreen() {
       >
         <SafeAreaView edges={["top"]}>
           <View style={s.topBar}>
-            <Text style={s.brand}>Deusizi Sparkle</Text>
+            <Text style={s.brand}>Deusizi Sparkle - Pro</Text>
             <Text style={s.brandSub}>Worker App</Text>
           </View>
         </SafeAreaView>

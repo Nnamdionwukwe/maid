@@ -513,7 +513,7 @@ export default function MaidHomeScreen() {
             <Text style={s.headerName} numberOfLines={1}>
               {profile?.name || "Maid"}
             </Text>
-            <Text style={s.headerRole}>Workers · Deusizi Sparkle Pro</Text>
+            <Text style={s.headerRole}>Worker · Deusizi Sparkle - Pro</Text>
             <View
               style={{
                 flexDirection: "row",
