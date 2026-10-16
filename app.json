@@ -9,7 +9,7 @@
     "scheme": "deusizimaid",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.deusizisparkle.maid",
+      "bundleIdentifier": "com.deusizisparkle.pro",
       "infoPlist": {
         "NSLocationWhenInUseUsageDescription": "Deusizi needs your location for job matching.",
         "NSCameraUsageDescription": "Deusizi needs camera access for video calls.",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/deusizi.jpg",
         "backgroundColor": "#1a1a2e"
       },
-      "package": "com.deusizisparkle.maid",
+      "package": "com.deusizisparkle.pro",
       "permissions": [
         "ACCESS_FINE_LOCATION",
         "CAMERA",
@@ -70,7 +70,7 @@
         "projectId": "2e92589f-9de3-4bae-95e7-fb8fa15aed22"
       },
       "expoAuthSession": {
-        "redirectUri": "com.deusizisparkle.maid://oauth2redirect"
+        "redirectUri": "com.deusizisparkle.pro://oauth2redirect"
       }
     },
     "owner": "nnamdi-michael",
